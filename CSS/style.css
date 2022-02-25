@@ -724,8 +724,8 @@ margin: 10px 0px 10px 126px;
     .special{
         margin-left:0;
     }
-    @media screen and (max-width:400px){
+    @media screen and (min-width:400px){
 .cover_header{
-width: 230px;}
+width: 200px;}
     }
 }
